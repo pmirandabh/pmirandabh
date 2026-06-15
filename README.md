@@ -1,16 +1,55 @@
-## Hi there 👋
+# Olá, eu sou Paulo Henrique Miranda 👋
 
-<!--
-**pmirandabh/pmirandabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Analista de Projetos com experiência em CRM, Power BI, automação de processos e Inteligência Artificial aplicada a negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho atuação voltada para análise de dados, melhoria contínua, governança de CRM, automação de processos e desenvolvimento de soluções para aumento da eficiência operacional.
+
+## Certificações
+
+* Google Project Management Professional Certificate
+* Microsoft Power BI Data Analyst Professional Certificate
+* PL-300 Exam Preparation and Practice
+
+## Competências
+
+* Power BI
+* DAX
+* Power Query
+* CRM
+* Gestão de Projetos
+* Automação de Processos
+* n8n
+* Inteligência Artificial
+* APIs REST
+* Análise de Dados
+
+## Projetos em Destaque
+
+### CRM Auditor Framework
+
+Framework conceitual para auditoria de dados e governança de CRM.
+
+### CRM Sales Analytics
+
+Projeto de análise comercial e acompanhamento de indicadores de vendas.
+
+### Lead Intelligence AI
+
+Solução para análise automatizada de leads utilizando Inteligência Artificial.
+
+## Atualmente Estudando
+
+* IA aplicada a negócios
+* Automações com n8n
+* Claude Code
+* MCP (Model Context Protocol)
+
+## Contato
+
+LinkedIn:
+linkedin.com/in/pmirandabh
+
+GitHub:
+github.com/pmirandabh
